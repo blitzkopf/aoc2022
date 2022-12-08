@@ -76,7 +76,7 @@ move 1 from 1 to 2
           println!("Bit {bit}");
           match STACKS_RE.captures(bit) {
             Some(cap) => { 
-              let c = cap.get(1).unwrap().as_str().chars().nth(0).unwrap();;
+              let c = cap.get(1).unwrap().as_str().chars().nth(0).unwrap();
               println!("{:?}",c);
               match stacks.get_mut(&sn) {
                 Some(st) =>  {st.add_bottom(c);},

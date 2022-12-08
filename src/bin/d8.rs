@@ -15,8 +15,8 @@ fn main()   {
 
     let mut forrest = Forrest::new(&content);
     forrest.check_visibility();
-  
-    let viscount = forrest.count_visable();
-    println!("Visible: {viscount:?} ");
+    forrest.run_calc();
+    let (viscount,ss) = forrest.get_results(); 
+    println!("Visible: {viscount:?} ss {ss} ");
 }
     
