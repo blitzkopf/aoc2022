@@ -1,0 +1,2890 @@
+name:/,size:<0>
+cmd cd args /
+executing <cd> >/<
+/
+cmd ls args None
+Not command dir bzcg
+Not command dir hrtvrp
+Not command dir jvj
+Not command dir ltrqb
+Not command dir msqlnht
+Not command dir mvs
+Not command dir nzmddp
+Not command dir zjvncc
+executing <ls> >None<
+name:bzcg,size:<0>
+name:hrtvrp,size:<0>
+name:jvj,size:<0>
+name:ltrqb,size:<0>
+name:msqlnht,size:<0>
+name:mvs,size:<0>
+name:nzmddp,size:<0>
+name:zjvncc,size:<0>
+cmd cd args bzcg
+executing <cd> >bzcg<
+bzcg
+cmd ls args None
+Not command dir fwmbbvj
+Not command 286838 hclnfzgv.gqb
+Not command dir mpsthvvc
+Not command 76013 qgzdlv.vdh
+Not command 186898 znzszz
+Not command dir zwmp
+executing <ls> >None<
+name:fwmbbvj,size:<0>
+name:hclnfzgv,size:<286838>
+name:mpsthvvc,size:<0>
+name:qgzdlv,size:<76013>
+name:znzszz,size:<186898>
+name:zwmp,size:<0>
+cmd cd args fwmbbvj
+executing <cd> >fwmbbvj<
+fwmbbvj
+cmd ls args None
+Not command dir dhdgrhg
+Not command dir fmdbzs
+Not command dir hfczrwl
+Not command dir hzdt
+Not command dir lchzdqv
+Not command dir llfhrcjr
+Not command 276346 mqb
+Not command dir nzmddp
+Not command 314933 nzmddp.hsf
+Not command dir stg
+Not command 299329 tgtdlct.qbw
+executing <ls> >None<
+name:dhdgrhg,size:<0>
+name:fmdbzs,size:<0>
+name:hfczrwl,size:<0>
+name:hzdt,size:<0>
+name:lchzdqv,size:<0>
+name:llfhrcjr,size:<0>
+name:mqb,size:<276346>
+name:nzmddp,size:<0>
+name:nzmddp,size:<314933>
+name:stg,size:<0>
+name:tgtdlct,size:<299329>
+cmd cd args dhdgrhg
+executing <cd> >dhdgrhg<
+dhdgrhg
+cmd ls args None
+Not command 296118 sfpqf
+Not command 96182 znzszz
+executing <ls> >None<
+name:sfpqf,size:<296118>
+name:znzszz,size:<96182>
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args fmdbzs
+executing <cd> >fmdbzs<
+fmdbzs
+cmd ls args None
+Not command 35391 bfcsgnhd.qdd
+Not command dir cgvwgw
+Not command dir jrzcqs
+Not command 28249 lbd
+Not command 310945 qfzr.wmv
+Not command 135866 tgcsgnsd.tcm
+executing <ls> >None<
+name:bfcsgnhd,size:<35391>
+name:cgvwgw,size:<0>
+name:jrzcqs,size:<0>
+name:lbd,size:<28249>
+name:qfzr,size:<310945>
+name:tgcsgnsd,size:<135866>
+cmd cd args cgvwgw
+executing <cd> >cgvwgw<
+cgvwgw
+cmd ls args None
+Not command dir nzmddp
+executing <ls> >None<
+name:nzmddp,size:<0>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 236634 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<236634>
+cmd cd args ..
+executing <cd> >..<
+cgvwgw
+cmd cd args ..
+executing <cd> >..<
+fmdbzs
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 167809 cwhfwngj
+Not command 110114 mvmbff.frl
+Not command 289563 qgzdlv.vdh
+Not command dir vtjlsltn
+Not command 332076 wcztrpdr.bcz
+Not command dir zwpjpt
+executing <ls> >None<
+name:cwhfwngj,size:<167809>
+name:mvmbff,size:<110114>
+name:qgzdlv,size:<289563>
+name:vtjlsltn,size:<0>
+name:wcztrpdr,size:<332076>
+name:zwpjpt,size:<0>
+cmd cd args vtjlsltn
+executing <cd> >vtjlsltn<
+vtjlsltn
+cmd ls args None
+Not command 306424 jwj
+Not command 345576 qgzdlv.vdh
+executing <ls> >None<
+name:jwj,size:<306424>
+name:qgzdlv,size:<345576>
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args zwpjpt
+executing <cd> >zwpjpt<
+zwpjpt
+cmd ls args None
+Not command dir jrzcqs
+executing <ls> >None<
+name:jrzcqs,size:<0>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command dir sfpqf
+executing <ls> >None<
+name:sfpqf,size:<0>
+cmd cd args sfpqf
+executing <cd> >sfpqf<
+sfpqf
+cmd ls args None
+Not command 329091 fgnljzg.zvv
+executing <ls> >None<
+name:fgnljzg,size:<329091>
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+zwpjpt
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+fmdbzs
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args hfczrwl
+executing <cd> >hfczrwl<
+hfczrwl
+cmd ls args None
+Not command dir crdbqlvs
+Not command dir jnplb
+Not command 82659 pldz
+executing <ls> >None<
+name:crdbqlvs,size:<0>
+name:jnplb,size:<0>
+name:pldz,size:<82659>
+cmd cd args crdbqlvs
+executing <cd> >crdbqlvs<
+crdbqlvs
+cmd ls args None
+Not command 87031 lbd
+Not command 2841 znzszz
+executing <ls> >None<
+name:lbd,size:<87031>
+name:znzszz,size:<2841>
+cmd cd args ..
+executing <cd> >..<
+hfczrwl
+cmd cd args jnplb
+executing <cd> >jnplb<
+jnplb
+cmd ls args None
+Not command 297170 bzs
+Not command 294997 gqlvhlm
+Not command 111010 nzmddp
+executing <ls> >None<
+name:bzs,size:<297170>
+name:gqlvhlm,size:<294997>
+name:nzmddp,size:<111010>
+cmd cd args ..
+executing <cd> >..<
+hfczrwl
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args hzdt
+executing <cd> >hzdt<
+hzdt
+cmd ls args None
+Not command 197102 bzqlsq.jtn
+Not command dir qgdncp
+executing <ls> >None<
+name:bzqlsq,size:<197102>
+name:qgdncp,size:<0>
+cmd cd args qgdncp
+executing <cd> >qgdncp<
+qgdncp
+cmd ls args None
+Not command dir ndn
+Not command 34679 sfpqf.tvj
+executing <ls> >None<
+name:ndn,size:<0>
+name:sfpqf,size:<34679>
+cmd cd args ndn
+executing <cd> >ndn<
+ndn
+cmd ls args None
+Not command dir ppfmfq
+Not command 104804 qjhq.brj
+executing <ls> >None<
+name:ppfmfq,size:<0>
+name:qjhq,size:<104804>
+cmd cd args ppfmfq
+executing <cd> >ppfmfq<
+ppfmfq
+cmd ls args None
+Not command 176104 slcmz.dfc
+executing <ls> >None<
+name:slcmz,size:<176104>
+cmd cd args ..
+executing <cd> >..<
+ndn
+cmd cd args ..
+executing <cd> >..<
+qgdncp
+cmd cd args ..
+executing <cd> >..<
+hzdt
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args lchzdqv
+executing <cd> >lchzdqv<
+lchzdqv
+cmd ls args None
+Not command 267779 pfrdwpsl.swc
+executing <ls> >None<
+name:pfrdwpsl,size:<267779>
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args llfhrcjr
+executing <cd> >llfhrcjr<
+llfhrcjr
+cmd ls args None
+Not command 58864 jrzcqs.rgs
+Not command 228412 nzmddp
+executing <ls> >None<
+name:jrzcqs,size:<58864>
+name:nzmddp,size:<228412>
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command dir cdp
+Not command dir dqjrv
+Not command 171210 qjhq.brj
+executing <ls> >None<
+name:cdp,size:<0>
+name:dqjrv,size:<0>
+name:qjhq,size:<171210>
+cmd cd args cdp
+executing <cd> >cdp<
+cdp
+cmd ls args None
+Not command 226343 lbd
+Not command dir znzszz
+executing <ls> >None<
+name:lbd,size:<226343>
+name:znzszz,size:<0>
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 241815 nzmddp.tcm
+Not command 68255 pcvjzhzn.wdg
+Not command 252123 qjhq.brj
+executing <ls> >None<
+name:nzmddp,size:<241815>
+name:pcvjzhzn,size:<68255>
+name:qjhq,size:<252123>
+cmd cd args ..
+executing <cd> >..<
+cdp
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args dqjrv
+executing <cd> >dqjrv<
+dqjrv
+cmd ls args None
+Not command 160039 bmcsz.jrq
+Not command dir gnp
+executing <ls> >None<
+name:bmcsz,size:<160039>
+name:gnp,size:<0>
+cmd cd args gnp
+executing <cd> >gnp<
+gnp
+cmd ls args None
+Not command dir dhnwcgb
+executing <ls> >None<
+name:dhnwcgb,size:<0>
+cmd cd args dhnwcgb
+executing <cd> >dhnwcgb<
+dhnwcgb
+cmd ls args None
+Not command 119009 pff
+executing <ls> >None<
+name:pff,size:<119009>
+cmd cd args ..
+executing <cd> >..<
+gnp
+cmd cd args ..
+executing <cd> >..<
+dqjrv
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args stg
+executing <cd> >stg<
+stg
+cmd ls args None
+Not command dir fntwgzz
+Not command dir gtbgr
+executing <ls> >None<
+name:fntwgzz,size:<0>
+name:gtbgr,size:<0>
+cmd cd args fntwgzz
+executing <cd> >fntwgzz<
+fntwgzz
+cmd ls args None
+Not command 289241 lbd
+executing <ls> >None<
+name:lbd,size:<289241>
+cmd cd args ..
+executing <cd> >..<
+stg
+cmd cd args gtbgr
+executing <cd> >gtbgr<
+gtbgr
+cmd ls args None
+Not command 124648 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<124648>
+cmd cd args ..
+executing <cd> >..<
+stg
+cmd cd args ..
+executing <cd> >..<
+fwmbbvj
+cmd cd args ..
+executing <cd> >..<
+bzcg
+cmd cd args mpsthvvc
+executing <cd> >mpsthvvc<
+mpsthvvc
+cmd ls args None
+Not command 164129 wpq
+executing <ls> >None<
+name:wpq,size:<164129>
+cmd cd args ..
+executing <cd> >..<
+bzcg
+cmd cd args zwmp
+executing <cd> >zwmp<
+zwmp
+cmd ls args None
+Not command dir cfgg
+Not command 237318 hdbqg
+Not command 171175 hstqbrr.tdt
+Not command 306477 lbd
+Not command 286893 qjhq.brj
+Not command 324660 sjmdcl
+Not command dir tlcl
+executing <ls> >None<
+name:cfgg,size:<0>
+name:hdbqg,size:<237318>
+name:hstqbrr,size:<171175>
+name:lbd,size:<306477>
+name:qjhq,size:<286893>
+name:sjmdcl,size:<324660>
+name:tlcl,size:<0>
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command 139209 rcpts.bnc
+executing <ls> >None<
+name:rcpts,size:<139209>
+cmd cd args ..
+executing <cd> >..<
+zwmp
+cmd cd args tlcl
+executing <cd> >tlcl<
+tlcl
+cmd ls args None
+Not command 39093 cfgg.rvc
+executing <ls> >None<
+name:cfgg,size:<39093>
+cmd cd args ..
+executing <cd> >..<
+zwmp
+cmd cd args ..
+executing <cd> >..<
+bzcg
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args hrtvrp
+executing <cd> >hrtvrp<
+hrtvrp
+cmd ls args None
+Not command dir bmsw
+Not command 63820 cfgg.btw
+Not command 93558 qfzr.wmv
+executing <ls> >None<
+name:bmsw,size:<0>
+name:cfgg,size:<63820>
+name:qfzr,size:<93558>
+cmd cd args bmsw
+executing <cd> >bmsw<
+bmsw
+cmd ls args None
+Not command 322182 qgzdlv.vdh
+Not command 106324 sfpqf.mrs
+executing <ls> >None<
+name:qgzdlv,size:<322182>
+name:sfpqf,size:<106324>
+cmd cd args ..
+executing <cd> >..<
+hrtvrp
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args jvj
+executing <cd> >jvj<
+jvj
+cmd ls args None
+Not command dir cfgg
+Not command dir dppgmmgh
+Not command dir hdmc
+Not command 56099 nntzqnfb
+Not command dir sfpqf
+executing <ls> >None<
+name:cfgg,size:<0>
+name:dppgmmgh,size:<0>
+name:hdmc,size:<0>
+name:nntzqnfb,size:<56099>
+name:sfpqf,size:<0>
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command 179999 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<179999>
+cmd cd args ..
+executing <cd> >..<
+jvj
+cmd cd args dppgmmgh
+executing <cd> >dppgmmgh<
+dppgmmgh
+cmd ls args None
+Not command dir bwwnwt
+executing <ls> >None<
+name:bwwnwt,size:<0>
+cmd cd args bwwnwt
+executing <cd> >bwwnwt<
+bwwnwt
+cmd ls args None
+Not command 131362 httvdc.hpw
+Not command 76925 qjhq.brj
+executing <ls> >None<
+name:httvdc,size:<131362>
+name:qjhq,size:<76925>
+cmd cd args ..
+executing <cd> >..<
+dppgmmgh
+cmd cd args ..
+executing <cd> >..<
+jvj
+cmd cd args hdmc
+executing <cd> >hdmc<
+hdmc
+cmd ls args None
+Not command 144982 gghj.bbc
+Not command 75348 jrzcqs.ssg
+Not command dir mqdqjrp
+Not command dir qccm
+Not command dir wzs
+executing <ls> >None<
+name:gghj,size:<144982>
+name:jrzcqs,size:<75348>
+name:mqdqjrp,size:<0>
+name:qccm,size:<0>
+name:wzs,size:<0>
+cmd cd args mqdqjrp
+executing <cd> >mqdqjrp<
+mqdqjrp
+cmd ls args None
+Not command 102764 lbd
+Not command 20330 rdrgh.brw
+Not command 84239 shht.rnq
+Not command 284381 vfgmpm.jnq
+executing <ls> >None<
+name:lbd,size:<102764>
+name:rdrgh,size:<20330>
+name:shht,size:<84239>
+name:vfgmpm,size:<284381>
+cmd cd args ..
+executing <cd> >..<
+hdmc
+cmd cd args qccm
+executing <cd> >qccm<
+qccm
+cmd ls args None
+Not command 47778 bcjcbh.mbq
+Not command 265938 gmsqgg.ncl
+Not command 83269 mqb
+Not command 58515 qfzr.wmv
+Not command 330596 znzszz
+executing <ls> >None<
+name:bcjcbh,size:<47778>
+name:gmsqgg,size:<265938>
+name:mqb,size:<83269>
+name:qfzr,size:<58515>
+name:znzszz,size:<330596>
+cmd cd args ..
+executing <cd> >..<
+hdmc
+cmd cd args wzs
+executing <cd> >wzs<
+wzs
+cmd ls args None
+Not command 319883 qjhq.brj
+executing <ls> >None<
+name:qjhq,size:<319883>
+cmd cd args ..
+executing <cd> >..<
+hdmc
+cmd cd args ..
+executing <cd> >..<
+jvj
+cmd cd args sfpqf
+executing <cd> >sfpqf<
+sfpqf
+cmd ls args None
+Not command dir ccsbqncb
+Not command dir cfgg
+Not command dir jrzcqs
+Not command dir nzmddp
+Not command dir sfpqf
+executing <ls> >None<
+name:ccsbqncb,size:<0>
+name:cfgg,size:<0>
+name:jrzcqs,size:<0>
+name:nzmddp,size:<0>
+name:sfpqf,size:<0>
+cmd cd args ccsbqncb
+executing <cd> >ccsbqncb<
+ccsbqncb
+cmd ls args None
+Not command 187812 qjhq.brj
+executing <ls> >None<
+name:qjhq,size:<187812>
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command dir cfgg
+Not command dir hpbq
+Not command dir jrzcqs
+Not command 285380 jrzcqs.vcq
+Not command 343520 lhzpnhjc
+Not command 24392 mqb
+Not command dir nzmddp
+Not command dir znzszz
+executing <ls> >None<
+name:cfgg,size:<0>
+name:hpbq,size:<0>
+name:jrzcqs,size:<0>
+name:jrzcqs,size:<285380>
+name:lhzpnhjc,size:<343520>
+name:mqb,size:<24392>
+name:nzmddp,size:<0>
+name:znzszz,size:<0>
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command 288249 qjhq.brj
+executing <ls> >None<
+name:qjhq,size:<288249>
+cmd cd args ..
+executing <cd> >..<
+cfgg
+cmd cd args hpbq
+executing <cd> >hpbq<
+hpbq
+cmd ls args None
+Not command 342631 cfw
+Not command 282426 czcvlz.hqm
+executing <ls> >None<
+name:cfw,size:<342631>
+name:czcvlz,size:<282426>
+cmd cd args ..
+executing <cd> >..<
+cfgg
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command dir ltr
+Not command 304275 qjhq.brj
+executing <ls> >None<
+name:ltr,size:<0>
+name:qjhq,size:<304275>
+cmd cd args ltr
+executing <cd> >ltr<
+ltr
+cmd ls args None
+Not command 339178 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<339178>
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+cfgg
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command dir cfgg
+Not command dir hnp
+Not command dir mtzgr
+Not command dir nrtvg
+Not command dir nzmddp
+executing <ls> >None<
+name:cfgg,size:<0>
+name:hnp,size:<0>
+name:mtzgr,size:<0>
+name:nrtvg,size:<0>
+name:nzmddp,size:<0>
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command 162027 cfgg
+Not command 9838 cfgg.frf
+Not command 113543 dsw.rrf
+Not command 288839 jhgcqp.zpv
+Not command 119427 znzszz.bvd
+executing <ls> >None<
+name:cfgg,size:<162027>
+name:cfgg,size:<9838>
+name:dsw,size:<113543>
+name:jhgcqp,size:<288839>
+name:znzszz,size:<119427>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args hnp
+executing <cd> >hnp<
+hnp
+cmd ls args None
+Not command 215530 nhjhcd
+executing <ls> >None<
+name:nhjhcd,size:<215530>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args mtzgr
+executing <cd> >mtzgr<
+mtzgr
+cmd ls args None
+Not command 138609 slbt.djp
+executing <ls> >None<
+name:slbt,size:<138609>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args nrtvg
+executing <cd> >nrtvg<
+nrtvg
+cmd ls args None
+Not command dir gtc
+Not command 120784 mbwm
+Not command 22036 tsj.qdg
+executing <ls> >None<
+name:gtc,size:<0>
+name:mbwm,size:<120784>
+name:tsj,size:<22036>
+cmd cd args gtc
+executing <cd> >gtc<
+gtc
+cmd ls args None
+Not command dir pgd
+Not command 202523 qfzr.wmv
+Not command dir smprtrhs
+Not command dir trppqf
+executing <ls> >None<
+name:pgd,size:<0>
+name:qfzr,size:<202523>
+name:smprtrhs,size:<0>
+name:trppqf,size:<0>
+cmd cd args pgd
+executing <cd> >pgd<
+pgd
+cmd ls args None
+Not command dir bsfv
+Not command 29468 lbd
+executing <ls> >None<
+name:bsfv,size:<0>
+name:lbd,size:<29468>
+cmd cd args bsfv
+executing <cd> >bsfv<
+bsfv
+cmd ls args None
+Not command dir lwdpmn
+Not command dir nzmddp
+Not command dir znzszz
+executing <ls> >None<
+name:lwdpmn,size:<0>
+name:nzmddp,size:<0>
+name:znzszz,size:<0>
+cmd cd args lwdpmn
+executing <cd> >lwdpmn<
+lwdpmn
+cmd ls args None
+Not command 126870 lcjq.llm
+executing <ls> >None<
+name:lcjq,size:<126870>
+cmd cd args ..
+executing <cd> >..<
+bsfv
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 280315 fcbrv
+Not command 271478 zqfc.pbm
+executing <ls> >None<
+name:fcbrv,size:<280315>
+name:zqfc,size:<271478>
+cmd cd args ..
+executing <cd> >..<
+bsfv
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 76029 jrzcqs.qfv
+Not command 176019 nzmddp
+executing <ls> >None<
+name:jrzcqs,size:<76029>
+name:nzmddp,size:<176019>
+cmd cd args ..
+executing <cd> >..<
+bsfv
+cmd cd args ..
+executing <cd> >..<
+pgd
+cmd cd args ..
+executing <cd> >..<
+gtc
+cmd cd args smprtrhs
+executing <cd> >smprtrhs<
+smprtrhs
+cmd ls args None
+Not command 233528 mqb
+Not command 127142 qbrrj.bhz
+Not command 148724 qjhq.brj
+executing <ls> >None<
+name:mqb,size:<233528>
+name:qbrrj,size:<127142>
+name:qjhq,size:<148724>
+cmd cd args ..
+executing <cd> >..<
+gtc
+cmd cd args trppqf
+executing <cd> >trppqf<
+trppqf
+cmd ls args None
+Not command dir hdg
+Not command dir nzmddp
+Not command 183245 qfzr.wmv
+executing <ls> >None<
+name:hdg,size:<0>
+name:nzmddp,size:<0>
+name:qfzr,size:<183245>
+cmd cd args hdg
+executing <cd> >hdg<
+hdg
+cmd ls args None
+Not command dir sqmnmnhd
+executing <ls> >None<
+name:sqmnmnhd,size:<0>
+cmd cd args sqmnmnhd
+executing <cd> >sqmnmnhd<
+sqmnmnhd
+cmd ls args None
+Not command 102960 mqb
+executing <ls> >None<
+name:mqb,size:<102960>
+cmd cd args ..
+executing <cd> >..<
+hdg
+cmd cd args ..
+executing <cd> >..<
+trppqf
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 327098 dbh.vsj
+Not command 343700 gblvc.gps
+Not command 265225 qfzr.wmv
+Not command 199016 znzszz.dbv
+Not command 217259 znzszz.plm
+executing <ls> >None<
+name:dbh,size:<327098>
+name:gblvc,size:<343700>
+name:qfzr,size:<265225>
+name:znzszz,size:<199016>
+name:znzszz,size:<217259>
+cmd cd args ..
+executing <cd> >..<
+trppqf
+cmd cd args ..
+executing <cd> >..<
+gtc
+cmd cd args ..
+executing <cd> >..<
+nrtvg
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 84041 dprztmqp.hpv
+Not command dir jrzcqs
+Not command dir zszhsnb
+executing <ls> >None<
+name:dprztmqp,size:<84041>
+name:jrzcqs,size:<0>
+name:zszhsnb,size:<0>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 127029 glzldmj.rvv
+Not command 35266 jtt.lqn
+Not command 51031 lbc.nlp
+Not command 268567 lbd
+Not command 280100 qgzdlv.vdh
+executing <ls> >None<
+name:glzldmj,size:<127029>
+name:jtt,size:<35266>
+name:lbc,size:<51031>
+name:lbd,size:<268567>
+name:qgzdlv,size:<280100>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args zszhsnb
+executing <cd> >zszhsnb<
+zszhsnb
+cmd ls args None
+Not command 186962 gssjn.njq
+Not command dir hcrnn
+Not command 263790 hlf.fsq
+Not command dir hlrjcm
+Not command dir jqbwl
+Not command dir jrzcqs
+Not command dir nzmddp
+Not command 285517 nzmddp.nsr
+Not command dir tshj
+executing <ls> >None<
+name:gssjn,size:<186962>
+name:hcrnn,size:<0>
+name:hlf,size:<263790>
+name:hlrjcm,size:<0>
+name:jqbwl,size:<0>
+name:jrzcqs,size:<0>
+name:nzmddp,size:<0>
+name:nzmddp,size:<285517>
+name:tshj,size:<0>
+cmd cd args hcrnn
+executing <cd> >hcrnn<
+hcrnn
+cmd ls args None
+Not command 188774 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<188774>
+cmd cd args ..
+executing <cd> >..<
+zszhsnb
+cmd cd args hlrjcm
+executing <cd> >hlrjcm<
+hlrjcm
+cmd ls args None
+Not command dir cfgg
+executing <ls> >None<
+name:cfgg,size:<0>
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command 70451 nbrlntm.znr
+executing <ls> >None<
+name:nbrlntm,size:<70451>
+cmd cd args ..
+executing <cd> >..<
+hlrjcm
+cmd cd args ..
+executing <cd> >..<
+zszhsnb
+cmd cd args jqbwl
+executing <cd> >jqbwl<
+jqbwl
+cmd ls args None
+Not command dir znzszz
+executing <ls> >None<
+name:znzszz,size:<0>
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 283986 mqb
+executing <ls> >None<
+name:mqb,size:<283986>
+cmd cd args ..
+executing <cd> >..<
+jqbwl
+cmd cd args ..
+executing <cd> >..<
+zszhsnb
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 93117 whfsbm
+executing <ls> >None<
+name:whfsbm,size:<93117>
+cmd cd args ..
+executing <cd> >..<
+zszhsnb
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command dir nzmddp
+executing <ls> >None<
+name:nzmddp,size:<0>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 163289 ndmsh.jln
+executing <ls> >None<
+name:ndmsh,size:<163289>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args ..
+executing <cd> >..<
+zszhsnb
+cmd cd args tshj
+executing <cd> >tshj<
+tshj
+cmd ls args None
+Not command dir jcrmv
+Not command 240935 qjhq.brj
+Not command dir srddr
+Not command dir znzszz
+executing <ls> >None<
+name:jcrmv,size:<0>
+name:qjhq,size:<240935>
+name:srddr,size:<0>
+name:znzszz,size:<0>
+cmd cd args jcrmv
+executing <cd> >jcrmv<
+jcrmv
+cmd ls args None
+Not command 288613 mqb
+executing <ls> >None<
+name:mqb,size:<288613>
+cmd cd args ..
+executing <cd> >..<
+tshj
+cmd cd args srddr
+executing <cd> >srddr<
+srddr
+cmd ls args None
+Not command 263797 jpqzbj.rnr
+Not command 43879 jrzcqs.zjn
+Not command 230566 mqb
+executing <ls> >None<
+name:jpqzbj,size:<263797>
+name:jrzcqs,size:<43879>
+name:mqb,size:<230566>
+cmd cd args ..
+executing <cd> >..<
+tshj
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 327063 ftbpgmjq
+executing <ls> >None<
+name:ftbpgmjq,size:<327063>
+cmd cd args ..
+executing <cd> >..<
+tshj
+cmd cd args ..
+executing <cd> >..<
+zszhsnb
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args ..
+executing <cd> >..<
+cfgg
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 227452 vdddqvj
+executing <ls> >None<
+name:vdddqvj,size:<227452>
+cmd cd args ..
+executing <cd> >..<
+cfgg
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 104553 qcwndswg.hrp
+executing <ls> >None<
+name:qcwndswg,size:<104553>
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 201456 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<201456>
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args sfpqf
+executing <cd> >sfpqf<
+sfpqf
+cmd ls args None
+Not command dir smr
+Not command dir tttvzmnm
+executing <ls> >None<
+name:smr,size:<0>
+name:tttvzmnm,size:<0>
+cmd cd args smr
+executing <cd> >smr<
+smr
+cmd ls args None
+Not command dir wnjnslvd
+executing <ls> >None<
+name:wnjnslvd,size:<0>
+cmd cd args wnjnslvd
+executing <cd> >wnjnslvd<
+wnjnslvd
+cmd ls args None
+Not command 44407 ftrvp.pnf
+Not command 116039 mjmrgsj
+Not command dir nzmddp
+executing <ls> >None<
+name:ftrvp,size:<44407>
+name:mjmrgsj,size:<116039>
+name:nzmddp,size:<0>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 323730 sfpqf.jjg
+executing <ls> >None<
+name:sfpqf,size:<323730>
+cmd cd args ..
+executing <cd> >..<
+wnjnslvd
+cmd cd args ..
+executing <cd> >..<
+smr
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args tttvzmnm
+executing <cd> >tttvzmnm<
+tttvzmnm
+cmd ls args None
+Not command dir csvhmb
+Not command 286656 dsd
+Not command 71993 qfzr.wmv
+Not command dir znzszz
+executing <ls> >None<
+name:csvhmb,size:<0>
+name:dsd,size:<286656>
+name:qfzr,size:<71993>
+name:znzszz,size:<0>
+cmd cd args csvhmb
+executing <cd> >csvhmb<
+csvhmb
+cmd ls args None
+Not command 299075 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<299075>
+cmd cd args ..
+executing <cd> >..<
+tttvzmnm
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 15914 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<15914>
+cmd cd args ..
+executing <cd> >..<
+tttvzmnm
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args ..
+executing <cd> >..<
+jvj
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args ltrqb
+executing <cd> >ltrqb<
+ltrqb
+cmd ls args None
+Not command dir gzhrbrr
+Not command 122564 hbv
+Not command dir twf
+Not command dir vptsc
+executing <ls> >None<
+name:gzhrbrr,size:<0>
+name:hbv,size:<122564>
+name:twf,size:<0>
+name:vptsc,size:<0>
+cmd cd args gzhrbrr
+executing <cd> >gzhrbrr<
+gzhrbrr
+cmd ls args None
+Not command 277882 djfrnzfn
+Not command 89527 frqmdg
+Not command 95596 nzmddp.mwr
+Not command 210985 qfzr.wmv
+Not command 169282 qgzdlv.vdh
+executing <ls> >None<
+name:djfrnzfn,size:<277882>
+name:frqmdg,size:<89527>
+name:nzmddp,size:<95596>
+name:qfzr,size:<210985>
+name:qgzdlv,size:<169282>
+cmd cd args ..
+executing <cd> >..<
+ltrqb
+cmd cd args twf
+executing <cd> >twf<
+twf
+cmd ls args None
+Not command dir mfd
+executing <ls> >None<
+name:mfd,size:<0>
+cmd cd args mfd
+executing <cd> >mfd<
+mfd
+cmd ls args None
+Not command 300823 jdgqf.tqd
+executing <ls> >None<
+name:jdgqf,size:<300823>
+cmd cd args ..
+executing <cd> >..<
+twf
+cmd cd args ..
+executing <cd> >..<
+ltrqb
+cmd cd args vptsc
+executing <cd> >vptsc<
+vptsc
+cmd ls args None
+Not command 156341 cfgg
+executing <ls> >None<
+name:cfgg,size:<156341>
+cmd cd args ..
+executing <cd> >..<
+ltrqb
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args msqlnht
+executing <cd> >msqlnht<
+msqlnht
+cmd ls args None
+Not command dir dcv
+Not command 30956 ddbr.zbq
+Not command dir dht
+Not command dir hsn
+Not command 42896 qgzdlv.vdh
+Not command 330093 sfpqf
+Not command 262508 sfpqf.cpt
+Not command dir sth
+Not command 310917 ttqqpqn
+Not command dir twgmlhtp
+executing <ls> >None<
+name:dcv,size:<0>
+name:ddbr,size:<30956>
+name:dht,size:<0>
+name:hsn,size:<0>
+name:qgzdlv,size:<42896>
+name:sfpqf,size:<330093>
+name:sfpqf,size:<262508>
+name:sth,size:<0>
+name:ttqqpqn,size:<310917>
+name:twgmlhtp,size:<0>
+cmd cd args dcv
+executing <cd> >dcv<
+dcv
+cmd ls args None
+Not command 201585 nzmddp.rdn
+Not command 344322 sfpqf
+Not command 239482 wwdvbggs
+executing <ls> >None<
+name:nzmddp,size:<201585>
+name:sfpqf,size:<344322>
+name:wwdvbggs,size:<239482>
+cmd cd args ..
+executing <cd> >..<
+msqlnht
+cmd cd args dht
+executing <cd> >dht<
+dht
+cmd ls args None
+Not command dir bwfcs
+executing <ls> >None<
+name:bwfcs,size:<0>
+cmd cd args bwfcs
+executing <cd> >bwfcs<
+bwfcs
+cmd ls args None
+Not command dir tjgjdj
+Not command dir znzszz
+executing <ls> >None<
+name:tjgjdj,size:<0>
+name:znzszz,size:<0>
+cmd cd args tjgjdj
+executing <cd> >tjgjdj<
+tjgjdj
+cmd ls args None
+Not command dir dljdshp
+executing <ls> >None<
+name:dljdshp,size:<0>
+cmd cd args dljdshp
+executing <cd> >dljdshp<
+dljdshp
+cmd ls args None
+Not command 19838 wcp.nmg
+executing <ls> >None<
+name:wcp,size:<19838>
+cmd cd args ..
+executing <cd> >..<
+tjgjdj
+cmd cd args ..
+executing <cd> >..<
+bwfcs
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command dir crwt
+Not command dir dwdjmnl
+Not command dir jrzcqs
+Not command dir rldp
+executing <ls> >None<
+name:crwt,size:<0>
+name:dwdjmnl,size:<0>
+name:jrzcqs,size:<0>
+name:rldp,size:<0>
+cmd cd args crwt
+executing <cd> >crwt<
+crwt
+cmd ls args None
+Not command 201821 nzmddp
+Not command 222044 qgzdlv.vdh
+executing <ls> >None<
+name:nzmddp,size:<201821>
+name:qgzdlv,size:<222044>
+cmd cd args ..
+executing <cd> >..<
+znzszz
+cmd cd args dwdjmnl
+executing <cd> >dwdjmnl<
+dwdjmnl
+cmd ls args None
+Not command 230423 swg
+Not command 98135 vcvvq.drl
+executing <ls> >None<
+name:swg,size:<230423>
+name:vcvvq,size:<98135>
+cmd cd args ..
+executing <cd> >..<
+znzszz
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 227320 zclsmlf.ljp
+executing <ls> >None<
+name:zclsmlf,size:<227320>
+cmd cd args ..
+executing <cd> >..<
+znzszz
+cmd cd args rldp
+executing <cd> >rldp<
+rldp
+cmd ls args None
+Not command 349401 grjsrgcs
+executing <ls> >None<
+name:grjsrgcs,size:<349401>
+cmd cd args ..
+executing <cd> >..<
+znzszz
+cmd cd args ..
+executing <cd> >..<
+bwfcs
+cmd cd args ..
+executing <cd> >..<
+dht
+cmd cd args ..
+executing <cd> >..<
+msqlnht
+cmd cd args hsn
+executing <cd> >hsn<
+hsn
+cmd ls args None
+Not command 256123 sfpqf.snp
+executing <ls> >None<
+name:sfpqf,size:<256123>
+cmd cd args ..
+executing <cd> >..<
+msqlnht
+cmd cd args sth
+executing <cd> >sth<
+sth
+cmd ls args None
+Not command 151062 cfgg
+Not command dir dscngvc
+Not command dir glqq
+Not command 214524 hgffpr.lqb
+Not command dir hqrrrz
+Not command 5900 qjhq.brj
+Not command 216813 qpjnjbzg.fqz
+Not command dir rlzhq
+Not command dir sbv
+executing <ls> >None<
+name:cfgg,size:<151062>
+name:dscngvc,size:<0>
+name:glqq,size:<0>
+name:hgffpr,size:<214524>
+name:hqrrrz,size:<0>
+name:qjhq,size:<5900>
+name:qpjnjbzg,size:<216813>
+name:rlzhq,size:<0>
+name:sbv,size:<0>
+cmd cd args dscngvc
+executing <cd> >dscngvc<
+dscngvc
+cmd ls args None
+Not command 273344 gshqbpw.njw
+Not command 70631 mqb
+Not command 16181 qfzr.wmv
+Not command dir rmsgtb
+Not command 172650 sfpqf
+executing <ls> >None<
+name:gshqbpw,size:<273344>
+name:mqb,size:<70631>
+name:qfzr,size:<16181>
+name:rmsgtb,size:<0>
+name:sfpqf,size:<172650>
+cmd cd args rmsgtb
+executing <cd> >rmsgtb<
+rmsgtb
+cmd ls args None
+Not command dir gnmf
+Not command 324122 qgzdlv.vdh
+executing <ls> >None<
+name:gnmf,size:<0>
+name:qgzdlv,size:<324122>
+cmd cd args gnmf
+executing <cd> >gnmf<
+gnmf
+cmd ls args None
+Not command 47246 npvlc.hvq
+executing <ls> >None<
+name:npvlc,size:<47246>
+cmd cd args ..
+executing <cd> >..<
+rmsgtb
+cmd cd args ..
+executing <cd> >..<
+dscngvc
+cmd cd args ..
+executing <cd> >..<
+sth
+cmd cd args glqq
+executing <cd> >glqq<
+glqq
+cmd ls args None
+Not command 66844 cfgg.mvw
+executing <ls> >None<
+name:cfgg,size:<66844>
+cmd cd args ..
+executing <cd> >..<
+sth
+cmd cd args hqrrrz
+executing <cd> >hqrrrz<
+hqrrrz
+cmd ls args None
+Not command dir lcq
+Not command 109656 mqb
+Not command 120607 nzh.nhp
+Not command 229843 scn.hfh
+Not command 149344 shdnj.swg
+Not command 169266 tgwtqd.qwd
+executing <ls> >None<
+name:lcq,size:<0>
+name:mqb,size:<109656>
+name:nzh,size:<120607>
+name:scn,size:<229843>
+name:shdnj,size:<149344>
+name:tgwtqd,size:<169266>
+cmd cd args lcq
+executing <cd> >lcq<
+lcq
+cmd ls args None
+Not command 334646 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<334646>
+cmd cd args ..
+executing <cd> >..<
+hqrrrz
+cmd cd args ..
+executing <cd> >..<
+sth
+cmd cd args rlzhq
+executing <cd> >rlzhq<
+rlzhq
+cmd ls args None
+Not command 316457 lbd
+Not command 290078 pfl.tjh
+executing <ls> >None<
+name:lbd,size:<316457>
+name:pfl,size:<290078>
+cmd cd args ..
+executing <cd> >..<
+sth
+cmd cd args sbv
+executing <cd> >sbv<
+sbv
+cmd ls args None
+Not command 158423 dmrrn
+Not command dir nzmddp
+Not command 86125 qfzr.wmv
+Not command 309500 qjhq.brj
+Not command 14673 qlqlmqq
+executing <ls> >None<
+name:dmrrn,size:<158423>
+name:nzmddp,size:<0>
+name:qfzr,size:<86125>
+name:qjhq,size:<309500>
+name:qlqlmqq,size:<14673>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command dir jrzcqs
+Not command dir nvsf
+Not command 194665 znzszz.mrm
+executing <ls> >None<
+name:jrzcqs,size:<0>
+name:nvsf,size:<0>
+name:znzszz,size:<194665>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command dir lsjfn
+executing <ls> >None<
+name:lsjfn,size:<0>
+cmd cd args lsjfn
+executing <cd> >lsjfn<
+lsjfn
+cmd ls args None
+Not command 41263 ptrcqt.qqz
+executing <ls> >None<
+name:ptrcqt,size:<41263>
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args nvsf
+executing <cd> >nvsf<
+nvsf
+cmd ls args None
+Not command 137050 wzcjllln.swq
+executing <ls> >None<
+name:wzcjllln,size:<137050>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args ..
+executing <cd> >..<
+sbv
+cmd cd args ..
+executing <cd> >..<
+sth
+cmd cd args ..
+executing <cd> >..<
+msqlnht
+cmd cd args twgmlhtp
+executing <cd> >twgmlhtp<
+twgmlhtp
+cmd ls args None
+Not command 284913 qgzdlv.vdh
+Not command dir rbhnjvrz
+executing <ls> >None<
+name:qgzdlv,size:<284913>
+name:rbhnjvrz,size:<0>
+cmd cd args rbhnjvrz
+executing <cd> >rbhnjvrz<
+rbhnjvrz
+cmd ls args None
+Not command dir vlcm
+executing <ls> >None<
+name:vlcm,size:<0>
+cmd cd args vlcm
+executing <cd> >vlcm<
+vlcm
+cmd ls args None
+Not command 71610 nqfdtfs.hpc
+Not command 53860 nzmddp.mcl
+executing <ls> >None<
+name:nqfdtfs,size:<71610>
+name:nzmddp,size:<53860>
+cmd cd args ..
+executing <cd> >..<
+rbhnjvrz
+cmd cd args ..
+executing <cd> >..<
+twgmlhtp
+cmd cd args ..
+executing <cd> >..<
+msqlnht
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args mvs
+executing <cd> >mvs<
+mvs
+cmd ls args None
+Not command dir cfmqw
+Not command dir dpj
+Not command dir znzszz
+executing <ls> >None<
+name:cfmqw,size:<0>
+name:dpj,size:<0>
+name:znzszz,size:<0>
+cmd cd args cfmqw
+executing <cd> >cfmqw<
+cfmqw
+cmd ls args None
+Not command 236767 qjhq.brj
+executing <ls> >None<
+name:qjhq,size:<236767>
+cmd cd args ..
+executing <cd> >..<
+mvs
+cmd cd args dpj
+executing <cd> >dpj<
+dpj
+cmd ls args None
+Not command dir wcgz
+executing <ls> >None<
+name:wcgz,size:<0>
+cmd cd args wcgz
+executing <cd> >wcgz<
+wcgz
+cmd ls args None
+Not command dir jrzcqs
+executing <ls> >None<
+name:jrzcqs,size:<0>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 47261 gltbrdl
+executing <ls> >None<
+name:gltbrdl,size:<47261>
+cmd cd args ..
+executing <cd> >..<
+wcgz
+cmd cd args ..
+executing <cd> >..<
+dpj
+cmd cd args ..
+executing <cd> >..<
+mvs
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 63782 lbd
+executing <ls> >None<
+name:lbd,size:<63782>
+cmd cd args ..
+executing <cd> >..<
+mvs
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 297761 dcbntj
+Not command dir fpnrzl
+Not command dir jrzcqs
+Not command 211161 lbd
+Not command dir mbqjsfj
+Not command dir nhnnmhj
+Not command dir pwjwc
+Not command dir pzptv
+Not command 104522 qfzr.wmv
+Not command 80572 qjhq.brj
+Not command dir sfpqf
+Not command dir znzszz
+executing <ls> >None<
+name:dcbntj,size:<297761>
+name:fpnrzl,size:<0>
+name:jrzcqs,size:<0>
+name:lbd,size:<211161>
+name:mbqjsfj,size:<0>
+name:nhnnmhj,size:<0>
+name:pwjwc,size:<0>
+name:pzptv,size:<0>
+name:qfzr,size:<104522>
+name:qjhq,size:<80572>
+name:sfpqf,size:<0>
+name:znzszz,size:<0>
+cmd cd args fpnrzl
+executing <cd> >fpnrzl<
+fpnrzl
+cmd ls args None
+Not command dir jrzcqs
+Not command dir mpzrrjd
+executing <ls> >None<
+name:jrzcqs,size:<0>
+name:mpzrrjd,size:<0>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 117141 lbd
+Not command dir znzszz
+executing <ls> >None<
+name:lbd,size:<117141>
+name:znzszz,size:<0>
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 148863 znzszz
+executing <ls> >None<
+name:znzszz,size:<148863>
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+fpnrzl
+cmd cd args mpzrrjd
+executing <cd> >mpzrrjd<
+mpzrrjd
+cmd ls args None
+Not command 287787 tglsshqj.msb
+executing <ls> >None<
+name:tglsshqj,size:<287787>
+cmd cd args ..
+executing <cd> >..<
+fpnrzl
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 28680 mqb
+Not command 496 pgpctg.tpz
+Not command dir zqcdfq
+executing <ls> >None<
+name:mqb,size:<28680>
+name:pgpctg,size:<496>
+name:zqcdfq,size:<0>
+cmd cd args zqcdfq
+executing <cd> >zqcdfq<
+zqcdfq
+cmd ls args None
+Not command 134507 mqb
+Not command dir nzmddp
+executing <ls> >None<
+name:mqb,size:<134507>
+name:nzmddp,size:<0>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 115602 shhttsf
+executing <ls> >None<
+name:shhttsf,size:<115602>
+cmd cd args ..
+executing <cd> >..<
+zqcdfq
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args mbqjsfj
+executing <cd> >mbqjsfj<
+mbqjsfj
+cmd ls args None
+Not command 8422 cfgg
+executing <ls> >None<
+name:cfgg,size:<8422>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args nhnnmhj
+executing <cd> >nhnnmhj<
+nhnnmhj
+cmd ls args None
+Not command 172791 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<172791>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args pwjwc
+executing <cd> >pwjwc<
+pwjwc
+cmd ls args None
+Not command dir fwtnnrb
+Not command dir zhdq
+executing <ls> >None<
+name:fwtnnrb,size:<0>
+name:zhdq,size:<0>
+cmd cd args fwtnnrb
+executing <cd> >fwtnnrb<
+fwtnnrb
+cmd ls args None
+Not command 294370 bpvt.gvv
+Not command dir jrzcqs
+Not command dir mfvntmf
+Not command dir qscphr
+executing <ls> >None<
+name:bpvt,size:<294370>
+name:jrzcqs,size:<0>
+name:mfvntmf,size:<0>
+name:qscphr,size:<0>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 291270 bjrw.wfg
+executing <ls> >None<
+name:bjrw,size:<291270>
+cmd cd args ..
+executing <cd> >..<
+fwtnnrb
+cmd cd args mfvntmf
+executing <cd> >mfvntmf<
+mfvntmf
+cmd ls args None
+Not command 48260 jclz
+Not command dir rlv
+Not command 46115 sfpqf
+Not command 46418 zbs
+executing <ls> >None<
+name:jclz,size:<48260>
+name:rlv,size:<0>
+name:sfpqf,size:<46115>
+name:zbs,size:<46418>
+cmd cd args rlv
+executing <cd> >rlv<
+rlv
+cmd ls args None
+Not command dir ddjcz
+executing <ls> >None<
+name:ddjcz,size:<0>
+cmd cd args ddjcz
+executing <cd> >ddjcz<
+ddjcz
+cmd ls args None
+Not command 135665 frtldl.rfz
+executing <ls> >None<
+name:frtldl,size:<135665>
+cmd cd args ..
+executing <cd> >..<
+rlv
+cmd cd args ..
+executing <cd> >..<
+mfvntmf
+cmd cd args ..
+executing <cd> >..<
+fwtnnrb
+cmd cd args qscphr
+executing <cd> >qscphr<
+qscphr
+cmd ls args None
+Not command dir lrhmvmq
+executing <ls> >None<
+name:lrhmvmq,size:<0>
+cmd cd args lrhmvmq
+executing <cd> >lrhmvmq<
+lrhmvmq
+cmd ls args None
+Not command 198056 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<198056>
+cmd cd args ..
+executing <cd> >..<
+qscphr
+cmd cd args ..
+executing <cd> >..<
+fwtnnrb
+cmd cd args ..
+executing <cd> >..<
+pwjwc
+cmd cd args zhdq
+executing <cd> >zhdq<
+zhdq
+cmd ls args None
+Not command 98139 cchv
+Not command 200761 fqc
+Not command 118696 lbd
+Not command 161939 mqb
+Not command 343033 rrgtws.wjn
+executing <ls> >None<
+name:cchv,size:<98139>
+name:fqc,size:<200761>
+name:lbd,size:<118696>
+name:mqb,size:<161939>
+name:rrgtws,size:<343033>
+cmd cd args ..
+executing <cd> >..<
+pwjwc
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args pzptv
+executing <cd> >pzptv<
+pzptv
+cmd ls args None
+Not command 28931 hfdzv.rtz
+Not command 44106 jrzcqs
+Not command 9518 lbd
+Not command dir mjc
+Not command dir qjfgzqj
+Not command dir sfpqf
+Not command dir vczrqhtd
+Not command 90722 vrnnn
+Not command dir znzszz
+executing <ls> >None<
+name:hfdzv,size:<28931>
+name:jrzcqs,size:<44106>
+name:lbd,size:<9518>
+name:mjc,size:<0>
+name:qjfgzqj,size:<0>
+name:sfpqf,size:<0>
+name:vczrqhtd,size:<0>
+name:vrnnn,size:<90722>
+name:znzszz,size:<0>
+cmd cd args mjc
+executing <cd> >mjc<
+mjc
+cmd ls args None
+Not command dir wcqv
+executing <ls> >None<
+name:wcqv,size:<0>
+cmd cd args wcqv
+executing <cd> >wcqv<
+wcqv
+cmd ls args None
+Not command dir fwvf
+executing <ls> >None<
+name:fwvf,size:<0>
+cmd cd args fwvf
+executing <cd> >fwvf<
+fwvf
+cmd ls args None
+Not command 280201 tqm.gdw
+executing <ls> >None<
+name:tqm,size:<280201>
+cmd cd args ..
+executing <cd> >..<
+wcqv
+cmd cd args ..
+executing <cd> >..<
+mjc
+cmd cd args ..
+executing <cd> >..<
+pzptv
+cmd cd args qjfgzqj
+executing <cd> >qjfgzqj<
+qjfgzqj
+cmd ls args None
+Not command 102183 jrzcqs.vpb
+Not command dir nzmddp
+executing <ls> >None<
+name:jrzcqs,size:<102183>
+name:nzmddp,size:<0>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 37882 jrzcqs.gpc
+Not command 284676 wcc.qcl
+executing <ls> >None<
+name:jrzcqs,size:<37882>
+name:wcc,size:<284676>
+cmd cd args ..
+executing <cd> >..<
+qjfgzqj
+cmd cd args ..
+executing <cd> >..<
+pzptv
+cmd cd args sfpqf
+executing <cd> >sfpqf<
+sfpqf
+cmd ls args None
+Not command 105254 phmwwcnl.wth
+executing <ls> >None<
+name:phmwwcnl,size:<105254>
+cmd cd args ..
+executing <cd> >..<
+pzptv
+cmd cd args vczrqhtd
+executing <cd> >vczrqhtd<
+vczrqhtd
+cmd ls args None
+Not command 35159 drfvdqjc.fph
+Not command dir pfvwwzfl
+Not command 206822 qgzdlv.vdh
+Not command 279335 qjhq.brj
+Not command dir zjtcbps
+executing <ls> >None<
+name:drfvdqjc,size:<35159>
+name:pfvwwzfl,size:<0>
+name:qgzdlv,size:<206822>
+name:qjhq,size:<279335>
+name:zjtcbps,size:<0>
+cmd cd args pfvwwzfl
+executing <cd> >pfvwwzfl<
+pfvwwzfl
+cmd ls args None
+Not command 138311 bjwdcbpf.wwz
+executing <ls> >None<
+name:bjwdcbpf,size:<138311>
+cmd cd args ..
+executing <cd> >..<
+vczrqhtd
+cmd cd args zjtcbps
+executing <cd> >zjtcbps<
+zjtcbps
+cmd ls args None
+Not command 169941 ddp.vvv
+Not command 346076 jrnggfr.gtf
+Not command 50876 rtz
+executing <ls> >None<
+name:ddp,size:<169941>
+name:jrnggfr,size:<346076>
+name:rtz,size:<50876>
+cmd cd args ..
+executing <cd> >..<
+vczrqhtd
+cmd cd args ..
+executing <cd> >..<
+pzptv
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 324206 hcpmqmpv
+Not command 140802 jrzcqs
+executing <ls> >None<
+name:hcpmqmpv,size:<324206>
+name:jrzcqs,size:<140802>
+cmd cd args ..
+executing <cd> >..<
+pzptv
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args sfpqf
+executing <cd> >sfpqf<
+sfpqf
+cmd ls args None
+Not command 177463 dnj.szl
+Not command dir jrzcqs
+Not command 242840 mqb
+Not command dir ntcptsd
+Not command 291995 pctt.flm
+Not command 205818 qfzr.wmv
+Not command dir rsgdd
+Not command 155626 znzszz.dws
+executing <ls> >None<
+name:dnj,size:<177463>
+name:jrzcqs,size:<0>
+name:mqb,size:<242840>
+name:ntcptsd,size:<0>
+name:pctt,size:<291995>
+name:qfzr,size:<205818>
+name:rsgdd,size:<0>
+name:znzszz,size:<155626>
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command dir glwz
+Not command 267334 nntbftjw
+Not command dir plhqw
+Not command dir pts
+Not command dir qcqcnqvp
+Not command 281648 sfpqf
+Not command dir znzszz
+executing <ls> >None<
+name:glwz,size:<0>
+name:nntbftjw,size:<267334>
+name:plhqw,size:<0>
+name:pts,size:<0>
+name:qcqcnqvp,size:<0>
+name:sfpqf,size:<281648>
+name:znzszz,size:<0>
+cmd cd args glwz
+executing <cd> >glwz<
+glwz
+cmd ls args None
+Not command dir mhrdgfp
+Not command dir mwttjss
+executing <ls> >None<
+name:mhrdgfp,size:<0>
+name:mwttjss,size:<0>
+cmd cd args mhrdgfp
+executing <cd> >mhrdgfp<
+mhrdgfp
+cmd ls args None
+Not command 171876 lbd
+executing <ls> >None<
+name:lbd,size:<171876>
+cmd cd args ..
+executing <cd> >..<
+glwz
+cmd cd args mwttjss
+executing <cd> >mwttjss<
+mwttjss
+cmd ls args None
+Not command 108737 qgzdlv.vdh
+Not command dir wndm
+executing <ls> >None<
+name:qgzdlv,size:<108737>
+name:wndm,size:<0>
+cmd cd args wndm
+executing <cd> >wndm<
+wndm
+cmd ls args None
+Not command 96467 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<96467>
+cmd cd args ..
+executing <cd> >..<
+mwttjss
+cmd cd args ..
+executing <cd> >..<
+glwz
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args plhqw
+executing <cd> >plhqw<
+plhqw
+cmd ls args None
+Not command 247813 mqb
+executing <ls> >None<
+name:mqb,size:<247813>
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args pts
+executing <cd> >pts<
+pts
+cmd ls args None
+Not command dir cfgg
+Not command 247928 ffprmnh
+Not command 308698 fncv.cfd
+Not command dir tfzn
+Not command dir vrsh
+executing <ls> >None<
+name:cfgg,size:<0>
+name:ffprmnh,size:<247928>
+name:fncv,size:<308698>
+name:tfzn,size:<0>
+name:vrsh,size:<0>
+cmd cd args cfgg
+executing <cd> >cfgg<
+cfgg
+cmd ls args None
+Not command 159819 rrhf.dtd
+executing <ls> >None<
+name:rrhf,size:<159819>
+cmd cd args ..
+executing <cd> >..<
+pts
+cmd cd args tfzn
+executing <cd> >tfzn<
+tfzn
+cmd ls args None
+Not command 42960 rbslfmpt.fwc
+executing <ls> >None<
+name:rbslfmpt,size:<42960>
+cmd cd args ..
+executing <cd> >..<
+pts
+cmd cd args vrsh
+executing <cd> >vrsh<
+vrsh
+cmd ls args None
+Not command dir jddbf
+executing <ls> >None<
+name:jddbf,size:<0>
+cmd cd args jddbf
+executing <cd> >jddbf<
+jddbf
+cmd ls args None
+Not command 342843 swbtfm
+executing <ls> >None<
+name:swbtfm,size:<342843>
+cmd cd args ..
+executing <cd> >..<
+vrsh
+cmd cd args ..
+executing <cd> >..<
+pts
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args qcqcnqvp
+executing <cd> >qcqcnqvp<
+qcqcnqvp
+cmd ls args None
+Not command dir mlnmbs
+Not command 121264 mqb
+Not command 132437 qfzr.wmv
+Not command dir sfpqf
+executing <ls> >None<
+name:mlnmbs,size:<0>
+name:mqb,size:<121264>
+name:qfzr,size:<132437>
+name:sfpqf,size:<0>
+cmd cd args mlnmbs
+executing <cd> >mlnmbs<
+mlnmbs
+cmd ls args None
+Not command 211179 qgzdlv.vdh
+executing <ls> >None<
+name:qgzdlv,size:<211179>
+cmd cd args ..
+executing <cd> >..<
+qcqcnqvp
+cmd cd args sfpqf
+executing <cd> >sfpqf<
+sfpqf
+cmd ls args None
+Not command dir nzmddp
+executing <ls> >None<
+name:nzmddp,size:<0>
+cmd cd args nzmddp
+executing <cd> >nzmddp<
+nzmddp
+cmd ls args None
+Not command 221804 jjmc.cth
+executing <ls> >None<
+name:jjmc,size:<221804>
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args ..
+executing <cd> >..<
+qcqcnqvp
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command dir cqq
+Not command 261225 lbd
+executing <ls> >None<
+name:cqq,size:<0>
+name:lbd,size:<261225>
+cmd cd args cqq
+executing <cd> >cqq<
+cqq
+cmd ls args None
+Not command 37926 qjhq.brj
+executing <ls> >None<
+name:qjhq,size:<37926>
+cmd cd args ..
+executing <cd> >..<
+znzszz
+cmd cd args ..
+executing <cd> >..<
+jrzcqs
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args ntcptsd
+executing <cd> >ntcptsd<
+ntcptsd
+cmd ls args None
+Not command dir lmbznbsd
+executing <ls> >None<
+name:lmbznbsd,size:<0>
+cmd cd args lmbznbsd
+executing <cd> >lmbznbsd<
+lmbznbsd
+cmd ls args None
+Not command 67249 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<67249>
+cmd cd args ..
+executing <cd> >..<
+ntcptsd
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args rsgdd
+executing <cd> >rsgdd<
+rsgdd
+cmd ls args None
+Not command 198925 lbd
+executing <ls> >None<
+name:lbd,size:<198925>
+cmd cd args ..
+executing <cd> >..<
+sfpqf
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args znzszz
+executing <cd> >znzszz<
+znzszz
+cmd ls args None
+Not command 224738 hhggjlpt.ncp
+Not command 215566 lqdrnfrt
+Not command 257824 lvv.bwz
+Not command 2888 vnqfcr.dbh
+Not command 129229 znzszz.rqr
+executing <ls> >None<
+name:hhggjlpt,size:<224738>
+name:lqdrnfrt,size:<215566>
+name:lvv,size:<257824>
+name:vnqfcr,size:<2888>
+name:znzszz,size:<129229>
+cmd cd args ..
+executing <cd> >..<
+nzmddp
+cmd cd args ..
+executing <cd> >..<
+/
+cmd cd args zjvncc
+executing <cd> >zjvncc<
+zjvncc
+cmd ls args None
+Not command dir dswznwtf
+Not command 255036 nzmddp.pln
+Not command dir qsq
+Not command dir rzbnmn
+Not command 312907 vbr
+executing <ls> >None<
+name:dswznwtf,size:<0>
+name:nzmddp,size:<255036>
+name:qsq,size:<0>
+name:rzbnmn,size:<0>
+name:vbr,size:<312907>
+cmd cd args dswznwtf
+executing <cd> >dswznwtf<
+dswznwtf
+cmd ls args None
+Not command 37067 cfv
+Not command 186502 qgzdlv.vdh
+executing <ls> >None<
+name:cfv,size:<37067>
+name:qgzdlv,size:<186502>
+cmd cd args ..
+executing <cd> >..<
+zjvncc
+cmd cd args qsq
+executing <cd> >qsq<
+qsq
+cmd ls args None
+Not command 149224 qfzr.wmv
+executing <ls> >None<
+name:qfzr,size:<149224>
+cmd cd args ..
+executing <cd> >..<
+zjvncc
+cmd cd args rzbnmn
+executing <cd> >rzbnmn<
+rzbnmn
+cmd ls args None
+Not command 57606 dhdgvg.lsj
+Not command dir fpj
+Not command dir jrzcqs
+executing <ls> >None<
+name:dhdgvg,size:<57606>
+name:fpj,size:<0>
+name:jrzcqs,size:<0>
+cmd cd args fpj
+executing <cd> >fpj<
+fpj
+cmd ls args None
+Not command 212353 jrzcqs.nrn
+executing <ls> >None<
+name:jrzcqs,size:<212353>
+cmd cd args ..
+executing <cd> >..<
+rzbnmn
+cmd cd args jrzcqs
+executing <cd> >jrzcqs<
+jrzcqs
+cmd ls args None
+Not command 288350 ndchf
+Not command 
+executing <ls> >None<
+name:ndchf,size:<288350>
+			 size <296118>
+			 size <96182>
+			-- dhdgrhg size <392300>
+			 size <35391>
+					 size <236634>
+					-- nzmddp size <236634>
+				-- cgvwgw size <236634>
+				 size <167809>
+				 size <110114>
+				 size <289563>
+					 size <306424>
+					 size <345576>
+					-- vtjlsltn size <652000>
+				 size <332076>
+							 size <329091>
+							-- sfpqf size <329091>
+						-- jrzcqs size <329091>
+					-- zwpjpt size <329091>
+				-- jrzcqs size <1880653>
+			 size <28249>
+			 size <310945>
+			 size <135866>
+			-- fmdbzs size <2627738>
+				 size <87031>
+				 size <2841>
+				-- crdbqlvs size <89872>
+				 size <297170>
+				 size <294997>
+				 size <111010>
+				-- jnplb size <703177>
+			 size <82659>
+			-- hfczrwl size <875708>
+			 size <197102>
+						 size <176104>
+						-- ppfmfq size <176104>
+					 size <104804>
+					-- ndn size <280908>
+				 size <34679>
+				-- qgdncp size <315587>
+			-- hzdt size <512689>
+			 size <267779>
+			-- lchzdqv size <267779>
+			 size <58864>
+			 size <228412>
+			-- llfhrcjr size <287276>
+		 size <276346>
+				 size <226343>
+					 size <241815>
+					 size <68255>
+					 size <252123>
+					-- znzszz size <562193>
+				-- cdp size <788536>
+				 size <160039>
+						 size <119009>
+						-- dhnwcgb size <119009>
+					-- gnp size <119009>
+				-- dqjrv size <279048>
+			 size <171210>
+			-- nzmddp size <1238794>
+		 size <314933>
+				 size <289241>
+				-- fntwgzz size <289241>
+				 size <124648>
+				-- gtbgr size <124648>
+			-- stg size <413889>
+		 size <299329>
+		-- fwmbbvj size <7506781>
+	 size <286838>
+		 size <164129>
+		-- mpsthvvc size <164129>
+	 size <76013>
+	 size <186898>
+			 size <139209>
+			-- cfgg size <139209>
+		 size <237318>
+		 size <171175>
+		 size <306477>
+		 size <286893>
+		 size <324660>
+			 size <39093>
+			-- tlcl size <39093>
+		-- zwmp size <1504825>
+	-- bzcg size <9725484>
+		 size <322182>
+		 size <106324>
+		-- bmsw size <428506>
+	 size <63820>
+	 size <93558>
+	-- hrtvrp size <585884>
+		 size <179999>
+		-- cfgg size <179999>
+			 size <131362>
+			 size <76925>
+			-- bwwnwt size <208287>
+		-- dppgmmgh size <208287>
+		 size <144982>
+		 size <75348>
+			 size <102764>
+			 size <20330>
+			 size <84239>
+			 size <284381>
+			-- mqdqjrp size <491714>
+			 size <47778>
+			 size <265938>
+			 size <83269>
+			 size <58515>
+			 size <330596>
+			-- qccm size <786096>
+			 size <319883>
+			-- wzs size <319883>
+		-- hdmc size <1818023>
+	 size <56099>
+			 size <187812>
+			-- ccsbqncb size <187812>
+				 size <288249>
+				-- cfgg size <288249>
+				 size <342631>
+				 size <282426>
+				-- hpbq size <625057>
+					 size <339178>
+					-- ltr size <339178>
+				 size <304275>
+				-- jrzcqs size <643453>
+			 size <285380>
+			 size <343520>
+			 size <24392>
+					 size <162027>
+					 size <9838>
+					 size <113543>
+					 size <288839>
+					 size <119427>
+					-- cfgg size <693674>
+					 size <215530>
+					-- hnp size <215530>
+					 size <138609>
+					-- mtzgr size <138609>
+									 size <126870>
+									-- lwdpmn size <126870>
+									 size <280315>
+									 size <271478>
+									-- nzmddp size <551793>
+									 size <76029>
+									 size <176019>
+									-- znzszz size <252048>
+								-- bsfv size <930711>
+							 size <29468>
+							-- pgd size <960179>
+						 size <202523>
+							 size <233528>
+							 size <127142>
+							 size <148724>
+							-- smprtrhs size <509394>
+									 size <102960>
+									-- sqmnmnhd size <102960>
+								-- hdg size <102960>
+								 size <327098>
+								 size <343700>
+								 size <265225>
+								 size <199016>
+								 size <217259>
+								-- nzmddp size <1352298>
+							 size <183245>
+							-- trppqf size <1638503>
+						-- gtc size <3310599>
+					 size <120784>
+					 size <22036>
+					-- nrtvg size <3453419>
+					 size <84041>
+						 size <127029>
+						 size <35266>
+						 size <51031>
+						 size <268567>
+						 size <280100>
+						-- jrzcqs size <761993>
+						 size <186962>
+							 size <188774>
+							-- hcrnn size <188774>
+						 size <263790>
+								 size <70451>
+								-- cfgg size <70451>
+							-- hlrjcm size <70451>
+								 size <283986>
+								-- znzszz size <283986>
+							-- jqbwl size <283986>
+							 size <93117>
+							-- jrzcqs size <93117>
+								 size <163289>
+								-- nzmddp size <163289>
+							-- nzmddp size <163289>
+						 size <285517>
+								 size <288613>
+								-- jcrmv size <288613>
+							 size <240935>
+								 size <263797>
+								 size <43879>
+								 size <230566>
+								-- srddr size <538242>
+								 size <327063>
+								-- znzszz size <327063>
+							-- tshj size <1394853>
+						-- zszhsnb size <2930739>
+					-- nzmddp size <3776773>
+				-- nzmddp size <8278005>
+				 size <227452>
+				-- znzszz size <227452>
+			-- cfgg size <10715508>
+			 size <104553>
+			-- jrzcqs size <104553>
+			 size <201456>
+			-- nzmddp size <201456>
+					 size <44407>
+					 size <116039>
+						 size <323730>
+						-- nzmddp size <323730>
+					-- wnjnslvd size <484176>
+				-- smr size <484176>
+					 size <299075>
+					-- csvhmb size <299075>
+				 size <286656>
+				 size <71993>
+					 size <15914>
+					-- znzszz size <15914>
+				-- tttvzmnm size <673638>
+			-- sfpqf size <1157814>
+		-- sfpqf size <12367143>
+	-- jvj size <14629551>
+		 size <277882>
+		 size <89527>
+		 size <95596>
+		 size <210985>
+		 size <169282>
+		-- gzhrbrr size <843272>
+	 size <122564>
+			 size <300823>
+			-- mfd size <300823>
+		-- twf size <300823>
+		 size <156341>
+		-- vptsc size <156341>
+	-- ltrqb size <1423000>
+		 size <201585>
+		 size <344322>
+		 size <239482>
+		-- dcv size <785389>
+	 size <30956>
+					 size <19838>
+					-- dljdshp size <19838>
+				-- tjgjdj size <19838>
+					 size <201821>
+					 size <222044>
+					-- crwt size <423865>
+					 size <230423>
+					 size <98135>
+					-- dwdjmnl size <328558>
+					 size <227320>
+					-- jrzcqs size <227320>
+					 size <349401>
+					-- rldp size <349401>
+				-- znzszz size <1329144>
+			-- bwfcs size <1348982>
+		-- dht size <1348982>
+		 size <256123>
+		-- hsn size <256123>
+	 size <42896>
+	 size <330093>
+	 size <262508>
+		 size <151062>
+			 size <273344>
+			 size <70631>
+			 size <16181>
+					 size <47246>
+					-- gnmf size <47246>
+				 size <324122>
+				-- rmsgtb size <371368>
+			 size <172650>
+			-- dscngvc size <904174>
+			 size <66844>
+			-- glqq size <66844>
+		 size <214524>
+				 size <334646>
+				-- lcq size <334646>
+			 size <109656>
+			 size <120607>
+			 size <229843>
+			 size <149344>
+			 size <169266>
+			-- hqrrrz size <1113362>
+		 size <5900>
+		 size <216813>
+			 size <316457>
+			 size <290078>
+			-- rlzhq size <606535>
+			 size <158423>
+						 size <41263>
+						-- lsjfn size <41263>
+					-- jrzcqs size <41263>
+					 size <137050>
+					-- nvsf size <137050>
+				 size <194665>
+				-- nzmddp size <372978>
+			 size <86125>
+			 size <309500>
+			 size <14673>
+			-- sbv size <941699>
+		-- sth size <4220913>
+	 size <310917>
+		 size <284913>
+				 size <71610>
+				 size <53860>
+				-- vlcm size <125470>
+			-- rbhnjvrz size <125470>
+		-- twgmlhtp size <410383>
+	-- msqlnht size <7999160>
+		 size <236767>
+		-- cfmqw size <236767>
+				 size <47261>
+				-- jrzcqs size <47261>
+			-- wcgz size <47261>
+		-- dpj size <47261>
+		 size <63782>
+		-- znzszz size <63782>
+	-- mvs size <347810>
+	 size <297761>
+			 size <117141>
+				 size <148863>
+				-- znzszz size <148863>
+			-- jrzcqs size <266004>
+			 size <287787>
+			-- mpzrrjd size <287787>
+		-- fpnrzl size <553791>
+		 size <28680>
+		 size <496>
+			 size <134507>
+				 size <115602>
+				-- nzmddp size <115602>
+			-- zqcdfq size <250109>
+		-- jrzcqs size <279285>
+	 size <211161>
+		 size <8422>
+		-- mbqjsfj size <8422>
+		 size <172791>
+		-- nhnnmhj size <172791>
+			 size <294370>
+				 size <291270>
+				-- jrzcqs size <291270>
+				 size <48260>
+						 size <135665>
+						-- ddjcz size <135665>
+					-- rlv size <135665>
+				 size <46115>
+				 size <46418>
+				-- mfvntmf size <276458>
+					 size <198056>
+					-- lrhmvmq size <198056>
+				-- qscphr size <198056>
+			-- fwtnnrb size <1060154>
+			 size <98139>
+			 size <200761>
+			 size <118696>
+			 size <161939>
+			 size <343033>
+			-- zhdq size <922568>
+		-- pwjwc size <1982722>
+		 size <28931>
+		 size <44106>
+		 size <9518>
+					 size <280201>
+					-- fwvf size <280201>
+				-- wcqv size <280201>
+			-- mjc size <280201>
+			 size <102183>
+				 size <37882>
+				 size <284676>
+				-- nzmddp size <322558>
+			-- qjfgzqj size <424741>
+			 size <105254>
+			-- sfpqf size <105254>
+			 size <35159>
+				 size <138311>
+				-- pfvwwzfl size <138311>
+			 size <206822>
+			 size <279335>
+				 size <169941>
+				 size <346076>
+				 size <50876>
+				-- zjtcbps size <566893>
+			-- vczrqhtd size <1226520>
+		 size <90722>
+			 size <324206>
+			 size <140802>
+			-- znzszz size <465008>
+		-- pzptv size <2675001>
+	 size <104522>
+	 size <80572>
+		 size <177463>
+					 size <171876>
+					-- mhrdgfp size <171876>
+					 size <108737>
+						 size <96467>
+						-- wndm size <96467>
+					-- mwttjss size <205204>
+				-- glwz size <377080>
+			 size <267334>
+				 size <247813>
+				-- plhqw size <247813>
+					 size <159819>
+					-- cfgg size <159819>
+				 size <247928>
+				 size <308698>
+					 size <42960>
+					-- tfzn size <42960>
+						 size <342843>
+						-- jddbf size <342843>
+					-- vrsh size <342843>
+				-- pts size <1102248>
+					 size <211179>
+					-- mlnmbs size <211179>
+				 size <121264>
+				 size <132437>
+						 size <221804>
+						-- nzmddp size <221804>
+					-- sfpqf size <221804>
+				-- qcqcnqvp size <686684>
+			 size <281648>
+					 size <37926>
+					-- cqq size <37926>
+				 size <261225>
+				-- znzszz size <299151>
+			-- jrzcqs size <3261958>
+		 size <242840>
+				 size <67249>
+				-- lmbznbsd size <67249>
+			-- ntcptsd size <67249>
+		 size <291995>
+		 size <205818>
+			 size <198925>
+			-- rsgdd size <198925>
+		 size <155626>
+		-- sfpqf size <4601874>
+		 size <224738>
+		 size <215566>
+		 size <257824>
+		 size <2888>
+		 size <129229>
+		-- znzszz size <830245>
+	-- nzmddp size <11798147>
+		 size <37067>
+		 size <186502>
+		-- dswznwtf size <223569>
+	 size <255036>
+		 size <149224>
+		-- qsq size <149224>
+		 size <57606>
+			 size <212353>
+			-- fpj size <212353>
+			 size <288350>
+			-- jrzcqs size <288350>
+		-- rzbnmn size <558309>
+	 size <312907>
+	-- zjvncc size <1499045>
+-- / size <48008081>
+ size 48008081
+ sumsize 1141028
+Free_space 21991919 target 8008081
+8278005
+9725484
+10715508
+11798147
+12367143
+14629551
+48008081
